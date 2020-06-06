@@ -70,13 +70,13 @@ torch.light();
 torch.showDirectionOfWind();
 
 //  3)
-//  Noun:       dog
-//  action 1:   the dog eats
-dog.eat();
-//  action 2:   the dog fetches
-dog.fetch();
-//  action 3:   the dog finds you
-dog.findsYou();
+//  Noun:       sportsCar
+//  action 1:   the sports car shifts gear
+sportsCar.shiftGear();
+//  action 2:   the sports car speeds up
+sportsCar.speedUp();
+//  action 3:   the sports car slows down
+sportsCar.slowDown();
  
 //  4)
 //  Noun:       synth
@@ -88,13 +88,13 @@ synth.arp();
 synth.modulate();
 
 //  5)
-//  Noun:       tapemachine
-//  action 1:   the tapemachine playacks
-tapemachine.playback();
-//  action 2:   the tapemachine stops
-tapemachine.stop();
-//  action 3:   the tapemachine reverses
-tapemachine.reverse();
+//  Noun:       tapeMachine
+//  action 1:   the tape machine playacks
+tapeMachine.playback();
+//  action 2:   the tape machine stops
+tapeMachine.stop();
+//  action 3:   the tape machine reverses
+tapeMachine.reverse();
 
 //  6)
 //  Noun:       delay effect
