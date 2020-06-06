@@ -103,7 +103,7 @@ delay.recordBuff();
 //  action 2:   the delay playbacks the buffer
 delay.playBackBuff();
 //  action 3:   the delay feedsback
-delay.feedBack()
+delay.feedBack();
 
 //  7)
 //  Noun:       sequencer
