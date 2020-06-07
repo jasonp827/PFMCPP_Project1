@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       screwdriver
+//  action 1:   the screwdriver screws 
+screwdriver.screw();
+//  action 2:   the screwdriver unscrews
+screwdriver.unscrew();
+//  action 3:   the screwdriver strips
+screwdriver.strip();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:       torch
+//  action 1:   the torch burns
+torch.burn();
+//  action 2:   the torch lights
+torch.light();
+//  action 3:   the torch shows the direction of wind
+torch.showDirectionOfWind();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       sportsCar
+//  action 1:   the sports car shifts gear
+sportsCar.shiftGear();
+//  action 2:   the sports car speeds up
+sportsCar.speedUp();
+//  action 3:   the sports car slows down
+sportsCar.slowDown();
  
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:       synth
+//  action 1:   the synth sequences
+synth.sequence();
+//  action 2:   the synth arpeggiates
+synth.arp();
+//  action 3:   the synth modulates
+synth.modulate();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:       tapeMachine
+//  action 1:   the tape machine playacks
+tapeMachine.playback();
+//  action 2:   the tape machine stops
+tapeMachine.stop();
+//  action 3:   the tape machine reverses
+tapeMachine.reverse();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:       delay effect
+//  action 1:   the delay records the buffer
+delay.recordBuff();
+//  action 2:   the delay playbacks the buffer
+delay.playBackBuff();
+//  action 3:   the delay feedsback
+delay.feedBack();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:       sequencer
+//  action 1:   the sequencer sends gates
+sequencer.sendGate();
+//  action 2:   the sequencer sends pitch information
+sequencer.sendPitch();
+//  action 3:   the sequencer receives clock
+sequencer.receiveClock();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:       baby
+//  action 1:   the baby laughs
+baby.laugh();
+//  action 2:   the baby sleeps
+baby.sleep();
+//  action 3:   the baby poops
+baby.poop();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:       camera
+//  action 1:   the camera takes a picture
+camera.takePicture();
+//  action 2:   the camera switches frame
+camera.switchFrame();
+//  action 3:   the camera unwinds roll
+camera.unwindRoll();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   the bird flies
+bird.fly();
+//  action 2:   the bird perches
+bird.perch();
+//  action 3:   the bird sings
+bird.sing();
 
 
 #endif
